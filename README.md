@@ -1,5 +1,5 @@
 # Data Structures And Algorithms in Swift.
-Brief examples of the implementation of Data Structures and Algorithms in swift.
+Brief examples of the implementation of some of the Data Structures and Algorithms in swift.
 
 ## Data Structures and Algorithms in Swift
 <p> Using Xcode's playgrounds, I have provided implementations of some of the most useful Data Structures and Algorithms. In addition, to some of the topics that I found useful while working with Swift. <p>
