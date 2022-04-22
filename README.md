@@ -72,7 +72,7 @@ Brief examples of the implementation of Data Structures and Algorithms in swift.
 * **[Data Structures and Algorithms in Swift](https://www.udemy.com/share/101R6a3@1SkQ4txaFgFIn3oQ1UrEl4VptVcZIFt9ZDLkdsydZocDEFfzJHoL6BAV2bswIkKAZA==/)**
 
 ----
-### Sources:
+### Cool things to look into:
 
 * **[Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)**
     
