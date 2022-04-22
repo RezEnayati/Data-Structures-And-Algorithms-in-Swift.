@@ -58,12 +58,15 @@ Brief examples of the implementation of some of the Data Structures and Algorith
 * Bubble Sorting
     * Implementation
 
-* Selection Sort:
+* Selection Sort
     * Implementation
 
-* Insertion Sort:
+* Insertion Sort
     * Implementation
 
+* Graphs
+    * Implementation using Adjacency List
+    
 ----
 ### Sources:
     
